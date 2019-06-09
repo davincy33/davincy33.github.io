@@ -4,7 +4,7 @@
 layout: home
 ---
 
-# "Hey world!"  
+## "Hey world!"  
 My name is Vincent Daniel  
 I live in Mannheim, Germany.  
 Please explore the website, to learn more about me.  
