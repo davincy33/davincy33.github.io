@@ -28,10 +28,13 @@ permalink: /skills/
 ## Projects
 
 - Angle and Depth detection using Stereo Camera and Face recogonition Method
+
 Programming language: Python
 
 - 3D Vision Data Compression Method using Stereo Camera
+
 Programming language: Python
+
 Source Code: [https://github.com/davincy33/3D-Vision-data-compression](https://github.com/davincy33/3D-Vision-data-compression)
 
 
