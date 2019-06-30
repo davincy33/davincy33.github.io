@@ -35,7 +35,7 @@ permalink: /skills/
 
     Programming language: Python
 
-    Source Code: [https://github.com/davincy33/3D-Vision-data-compression](https://github.com/davincy33/3D-Vision-data-compression)
+    Source Code: [https://github.com/davincy33/3D-Vision-data](https://github.com/davincy33/3D-Vision-data)
 
 
 
