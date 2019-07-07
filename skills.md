@@ -11,6 +11,7 @@ permalink: /skills/
 - C/C++
 - Python
 - Embedded C
+- Matlab
 - VHDL
 - Java
 
