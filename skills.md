@@ -25,6 +25,10 @@ permalink: /skills/
 - Springboot
 - NodeJs
 
+## Certification
+- Deep Learning A-Z by Kirll Eremenko (Udemy).
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera).
+- Workshop On Auto Botz on 8051 under Technophilia Systems.
 
 ## Projects
 
@@ -38,6 +42,9 @@ permalink: /skills/
 
     Source Code: [https://github.com/davincy33/3D-Vision-data](https://github.com/davincy33/3D-Vision-data)
 
-
-
+- Simple OFDM Trans-receiver
+	
+	Programming language: Matlab
+	
+	Source Code: [https://github.com/davincy33/Simple-OFDM-Transreceiver](https://github.com/davincy33/Simple-OFDM-Transreceiver)
 
