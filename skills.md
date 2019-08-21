@@ -32,7 +32,7 @@ permalink: /skills/
 
 ## Projects
 
-- Angle and Depth detection using Stereo Camera and Face recogonition Method
+- Angle and Depth detection using Stereo Camera with face recognition.
 
     Programming language: Python
 
