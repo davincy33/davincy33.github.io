@@ -32,6 +32,10 @@ permalink: /skills/
 
 ## Projects
 
+- Mutli Sensor Fusion
+
+    Programming language: Python and Embedded C
+
 - Angle and Depth detection using Stereo Camera with face recognition.
 
     Programming language: Python
@@ -47,4 +51,8 @@ permalink: /skills/
 	Programming language: Matlab
 	
 	Source Code: [https://github.com/davincy33/Simple-OFDM-Transreceiver](https://github.com/davincy33/Simple-OFDM-Transreceiver)
+	
+-  Embeded Security: Hardware Implementation of the PRESENT lightweight block cipher for encryption.
+
+	Programming language: Embedded C, C++
 
