@@ -55,4 +55,10 @@ permalink: /skills/
 -  Embeded Security: Hardware Implementation of the PRESENT lightweight block cipher for encryption.
 
 	Programming language: Embedded C, C++
+	
+-  Speech Recognition and Speech-to-Text 
+	
+	Programming language: Python
+	Source Code: [https://github.com/davincy33/Simple-Speech-Recognition](https://github.com/davincy33/Simple-Speech-Recognition)
+		     [https://github.com/davincy33/Speech_to_Text](https://github.com/davincy33/Speech_to_Text)
 
