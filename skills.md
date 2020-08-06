@@ -61,4 +61,12 @@ permalink: /skills/
 	Programming language: Python
 	Source Code: [https://github.com/davincy33/Simple-Speech-Recognition](https://github.com/davincy33/Simple-Speech-Recognition)
 		     [https://github.com/davincy33/Speech_to_Text](https://github.com/davincy33/Speech_to_Text)
+		     
+		     
+		     
+- Implementation of traffic lights using VHDL
+
+	Programming language: VHDL
+	Source Code:[https://github.com/davincy33/VHDL_Basic_Projects/tree/master/traffic_light](https://github.com/davincy33/VHDL_Basic_Projects/tree/master/traffic_light)
+	
 
