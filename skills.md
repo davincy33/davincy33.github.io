@@ -10,10 +10,13 @@ permalink: /skills/
 ## Programming languages
 - C/C++
 - Python
+- Javascript
+- Typescript
 - Embedded C
 - Matlab
 - VHDL
 - Java
+- Go
 
 ## Tools
 - OpenCV
