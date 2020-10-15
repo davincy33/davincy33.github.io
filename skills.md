@@ -29,7 +29,7 @@ permalink: /skills/
 - NodeJs
 
 ## Certification
-- Python Basics from HackerRank [https://www.hackerrank.com/certificates/fc8d6d5ecce0](https://www.hackerrank.com/certificates/fc8d6d5ecce0)
+- Python Basics from HackerRank ([https://www.hackerrank.com/certificates/fc8d6d5ecce0](https://www.hackerrank.com/certificates/fc8d6d5ecce0))
 - Deep Learning A-Z by Kirll Eremenko (Udemy).
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera).
 - Workshop On Auto Botz on 8051 under Technophilia Systems.
