@@ -33,6 +33,8 @@ permalink: /skills/
 - Deep Learning A-Z by Kirll Eremenko (Udemy).
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera).
 - Workshop On Auto Botz on 8051 under Technophilia Systems.
+- AWS Fundamental- Going Cloud Native (Coursera)
+- Getting Started with GO(Coursera)
 
 ## Projects
 
